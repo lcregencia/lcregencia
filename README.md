@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lcregencia
 - 👀 I’m interested in software development with Delphi and the Web.
-- 🌱 I’m currently learning Bootstrap
-- 💞️ I’m looking to collaborate on D3JS
+- 🌱 I’m using Delphi as backend together with Web technologies (HTML, CSS & JS)
+- 💞️ I’m also integrating D3JS for data visualization
 - 📫 How to reach me lcregencia@gmail.com
 
 <!---
